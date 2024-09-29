@@ -10,7 +10,7 @@ Para compilar o projeto, siga os passos abaixo:
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd ~/Projects/cscan
+   git clone https://github.com/samuel0k/CSCAN.git
 
     Compile o código-fonte usando o gcc:
 
