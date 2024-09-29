@@ -64,4 +64,4 @@ Versão 1.0
 
 🎉 Agradecimentos
 
-Agradecemos a todos que contribuíram para o desenvolvimento deste projeto. Divirta-se usando o cscan! 🎈
+Divirta-se usando o cscan! 🎈
